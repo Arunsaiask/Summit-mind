@@ -6,7 +6,7 @@ to run this clone this repo or download
 
 3. images are shown below 
 
-![Screenshot](alphabetical.jpg)
+![Screenshot](alpahabetical.jpg)
 ![Screenshot](byYear.jpg)
 ![Screenshot](year&category.jpg)
 ![Screenshot](byname.jpg)
