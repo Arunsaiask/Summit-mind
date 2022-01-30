@@ -5,4 +5,12 @@ Clone the repository or else download and
 3. Move to root folder & run "npm run dev"  to both servers  start  concurrently
 4. Server will start and api will  open in browser
 5. Thanks , for opportunity 
+
 GitHub repository link :- https://github.com/Arunsaiask/Summit-mind
+
+Resume Link :-
+ https://drive.google.com/file/d/1ch_fSq3FmnqMK_xOvSdHTvlohGkqz_aY/view?usp=drivesdk
+
+Name: Ragamshetty Arunsai
+email : nanipatel9@gmail.com
+phone: 9618168958
