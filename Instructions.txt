@@ -1,0 +1,8 @@
+Created with Node.js and React.js 
+Clone the repository or else download and 
+1. Go to the root folder and run "npm i "  to install dependenices of server
+2. Go to client folder and run "npm i  "  install dependenices of client
+3. Move to root folder & run "npm run dev"  to both servers  start  concurrently
+4. Server will start and api will  open in browser
+5. Thanks , for opportunity 
+GitHub repository link :- https://github.com/Arunsaiask/Summit-mind
