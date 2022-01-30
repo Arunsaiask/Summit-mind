@@ -19,7 +19,7 @@ const ByYear = () => {
   return (
     <>
       <Container>
-        <h3 className="text-center my-3">Search Noble Prize Winners by Name</h3>
+        <h3 className="text-center my-3">Search Noble Prize Winners By Year</h3>
         <Form onSubmit={onsubmit}>
           <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
             <Form.Label>Enter Year</Form.Label>
